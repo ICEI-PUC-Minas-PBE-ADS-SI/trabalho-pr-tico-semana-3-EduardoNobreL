@@ -8,17 +8,19 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Eduardo Nobre de Oliveira Lino
+- Matricula: 815782
+- Proposta de projeto escolhida: Portal de Noticias
+- Breve descrição sobre seu projeto: Portal de Noiticias, no momento o foco é noticias gerais, mas o foco pode ser alterado futuramente.
 
 
 ## Print do esboço criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Captura de tela 2025-03-15 191136](https://github.com/user-attachments/assets/f86f9133-0249-4b8b-838f-17fad95e9262)
+
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Captura de tela 2025-03-15 191936](https://github.com/user-attachments/assets/ee1302a3-1593-4f07-a068-b62f50975ea0)
+
